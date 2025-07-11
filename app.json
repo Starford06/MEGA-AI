@@ -13,12 +13,12 @@
       "value": "923204566006"
     },
     "BOT_NUMBER": {
-      "description": "Phone Number On Wich You will Gets Pairing Code",
+      "description": "+254799242459",
       "required": true,
       "value": ""
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "StarBot",
       "required": false,
       "value": "MEGA-AI"
     },
