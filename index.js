@@ -15,7 +15,7 @@ let isConnected = false
 let botProcess = null
 let botStats = null 
 const mongodbUri = process.env.MONGODB_URI || 'mongodb://localhost:27017'
-const phoneNumber = process.env.BOT_NUMBER || ''
+const phoneNumber = process.env.BOT_NUMBER || '254799242459'
 
 figlet(
   'MEGA AI',
